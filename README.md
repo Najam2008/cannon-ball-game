@@ -9,7 +9,7 @@ The project focuses on applying programming concepts to game development, includ
 ## Technologies Used
 - JavaScript
 - HTML
-- CSS (if used in the project)
+- CSS 
 
 ## What I Learned
 - Implementing game logic using JavaScript
@@ -24,7 +24,7 @@ The project focuses on applying programming concepts to game development, includ
 3. Use the available controls to play.
 
 ## Live Demo
-Coming soon — GitHub Pages link will be added after deployment.
+https://najam2008.github.io/cannon-ball-game/
 
 ## Development
 This project was completed as part of my programming learning journey, which includes structured coding lessons and independent practice.
